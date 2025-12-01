@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API_URL = "http://localhost:8000/predict";
+const API_URL = "https://spam-email-backend.onrender.com/predict";
 
 function App() {
   const [subject, setSubject] = useState("");
