@@ -175,8 +175,3 @@ The backend server will start and load the trained spam classification model.
 
 Developed as part of a machine learning project to demonstrate practical NLP and classification skills.
 
----
-
-## 📜 License
-
-This project is for educational and academic purposes.
